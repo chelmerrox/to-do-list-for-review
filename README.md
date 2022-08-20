@@ -89,10 +89,8 @@ Give a ⭐️ if you like this project!
 - My God & family
 - Microverse
 - Coding & Learning Partners: 
-  1. [Habiburahman Payenda](https://github.com/HabibPayenda) 
-  2. [Elie Harfouche](https://github.com/X-Elie-X) 
-  3. [Ayesha Arshad](https://github.com/shella12) 
-  4. [Eva L. Bucur](https://github.com/BucurEva87) 
+  1. []() 
+  2. []() 
 - Morning Session Teams
 - Stand-Up Teams
 - Microverse TSEs
