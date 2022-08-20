@@ -2,6 +2,7 @@
   "name": "to-do-list-for-review",
   "version": "1.0.0",
   "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "index.js",
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -38,6 +39,5 @@
   },
   "dependencies": {
     "lodash": "^4.17.21"
-  },
-  "main": "webpack.config.js"
+  }
 }
