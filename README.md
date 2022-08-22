@@ -18,7 +18,7 @@
 
 ## Live Demo
 
-[Live Demo Link from ./dist/index.html](https://chelmerrox.github.io/to-do-list/dist/)
+[Live Demo Link from ./dist/index.html](https://raw.githack.com/chelmerrox/to-do-list-for-review/code-review/dist/index.html)
 
 ## Getting Started
 
@@ -89,10 +89,8 @@ Give a ⭐️ if you like this project!
 - My God & family
 - Microverse
 - Coding & Learning Partners: 
-  1. [Habiburahman Payenda](https://github.com/HabibPayenda) 
-  2. [Elie Harfouche](https://github.com/X-Elie-X) 
-  3. [Ayesha Arshad](https://github.com/shella12) 
-  4. [Eva L. Bucur](https://github.com/BucurEva87) 
+  1. []() 
+  2. []() 
 - Morning Session Teams
 - Stand-Up Teams
 - Microverse TSEs
